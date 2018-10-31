@@ -1,6 +1,6 @@
 {
   "name": "react-tic-tac-toe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real time Tic Tac Toe in react",
   "main": "index.js",
   "repository": {},
